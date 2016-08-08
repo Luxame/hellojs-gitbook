@@ -56,3 +56,4 @@
 |![Spooky](./lecturer/spooky.JPG)|謝宗穎 (Spooky)<br><br>實務上的 Full Stack Web 開發經驗，熟悉 Java 以及 JavaScript 開發，對開發流程優化有高度興趣，提倡 TDD 開發方式，並且倡導 Scrum 開發流程，以及透過 Jenkins CI 進行自動化，利用 Docker 輔助開發或測試環境建置，技術團隊管理者，並且喜好吸收新知並且樂於在任何場合進行分享，目前從事企業技術教學與顧問工作。|
 |![Kueiyen](./lecturer/kueiyen.jpg)|陳奎研 (Kueiyen)<br><br>一個踏上全端開發者之路的神奇寶貝訓練家、熱愛嘗試新事物的資訊人，立志要當一個比 PM 還嘴砲卻同時沈默寡言的工程師。目前掉進了 React-Native 的坑爬不出來，各位大大一起來玩！|
 |![DMoon](./lecturer/dmoon.jpg)|黃駿朋 (DMoon)<br><br>樂於嘗試新東西，享受學習的大四學生，喜歡前端總有很多新鮮事<br>目前主要以 Node.js / React 進行開發，最近不小心掉入 React Native 的坑ヽ(o'Д`o)ノ|
+|---|傅耀德 (Fuyaode)<br><br>一個假裝會前端的後端工程師，喜歡研究各種『 哇! 這東西好 Cool 』的新奇技術，平常閒來沒事會做做小東西，只為了跟別人說「你看厲害吧～」，目前專精於研究 Node.js 的各種應用|
