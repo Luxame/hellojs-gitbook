@@ -48,3 +48,10 @@
 完成課程中所有的實作，頒予印刷精美的證書乙張，加上豐富滿點的 GitHub Commit Logs，讓你的 Programmer 職涯贏在起跑點！
 
 ![](./HelloJS.png)
+
+## 講師團隊
+
+|講師|講師介紹|
+|---|---|
+|![Spooky](./lecturer/spooky.jpg)|實務上的 Full Stack Web 開發經驗，熟悉 Java 以及 JavaScript 開發，對開發流程優化有高度興趣，提倡 TDD 開發方式，並且倡導 Scrum 開發流程，以及透過 Jenkins CI 進行自動化，利用 Docker 輔助開發或測試環境建置，技術團隊管理者，並且喜好吸收新知並且樂於在任何場合進行分享，目前從事企業技術教學與顧問工作。|
+|---|---|
